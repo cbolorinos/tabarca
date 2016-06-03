@@ -43,12 +43,12 @@
    }
 
      .navbar-inverse .navbar-brand {
-        color: #181818;
+        color: #e7d2aa;
         background:url('stiched-cloth.jpg');
         background-size: 100% 100%;
         background-repeat:no-repeat;
         display: compact;
-        text-shadow: 1px 1px 3px #666, -1px -1px 3px #FFF, 1px 1px #666, -1px -1px #FFF;
+        text-shadow: 1px 1px 3px black;
      }
 
 .navbar-btn {
@@ -59,15 +59,15 @@
      }
       .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #FFFF00;
+  color: #f4e4d9;
   background-color: transparent;
 }
 .navbar-inverse .navbar-nav > li > a{
-        color:#FFE900;
+        color:#e7d2aa;
       }
 
       .carousel-caption {
-        color:#FFE900;
+        color:#e7d2aa;
       }
 
       .footer {
